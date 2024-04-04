@@ -36,7 +36,7 @@ The Mind Check application is built using the following technologies:
 
 To get started with Mind Check locally, follow these steps:
 
-1. Clone the repository: `git clone https://github.com/kunalkeshan/Mind-Check.git`
+1. Clone the repository: `git clone https://github.com/Nika69420/mind-check.git`
 2. Navigate to the project directory: `cd mind-check`
 3. Install dependencies using pnpm: `pnpm install`
 4. Start the development server: `pnpm dev`
@@ -61,22 +61,27 @@ At Mind Check, we believe in the power of community-driven knowledge sharing to 
 To contribute to Mind Check's resources, follow these simple steps:
 
 1. Explore the `src/public/resources/` Directory:
+
    - Navigate to the 'public/resources/' directory in our GitHub repository.
    - Here, you'll find all the resources written in Markdown format.
 
 2. Choose a Resource to Edit or Create a New One:
+
    - Browse through the existing resources to see if there's an opportunity to enhance or update the content.
    - Alternatively, if you have valuable insights to share, you can create a new resource by following the same Markdown format.
 
 3. Edit or Create the Resource:
+
    - Use a Markdown editor of your choice to edit an existing resource or create a new one from scratch.
    - Ensure that the content is relevant, informative, and aligns with our mission of promoting mental well-being.
 
 4. Update your content in the `src/data/resources.ts`.
+
    - This is to ensure that the content reflects on the platform when a user is looking for it.
    - Also to ensure to place a proper title, name of the markdown file, and associated tags for the same.
 
 5. Save and Submit Your Changes:
+
    - Once you're satisfied with your edits or the new resource, save the Markdown file with a descriptive filename.
 
 6. Create a Pull Request:
