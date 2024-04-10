@@ -16,9 +16,9 @@ import { Timestamp, doc, setDoc } from "firebase/firestore";
 import { nanoid } from "nanoid";
 import { useUserStore } from "../store/user";
 import { motion } from "framer-motion";
-import { Resource } from "../data/resources";
-import { fetchRecommendedResources } from "../utils/resources";
-import ResourceCard from "../components/resources/ResourceCard";
+// import { Resource } from "../data/resources";
+// import { fetchRecommendedResources } from "../utils/resources";
+// import ResourceCard from "../components/resources/ResourceCard";
 
 interface ScoreData extends Score {
   data: Score["score"];
@@ -52,13 +52,13 @@ function Score() {
     return data?.feedback[Math.floor(Math.random() * FEEDBACKS_LENGTH)];
   }, [score]);
 
-  const recommendedResources = useMemo(() => {
-    let reads: Resource[] = [];
-    if (score) {
-      reads = fetchRecommendedResources(score.data);
-    }
-    return reads;
-  }, [score]);
+  // const recommendedResources = useMemo(() => {
+  //   let reads: Resource[] = [];
+  //   if (score) {
+  //     reads = fetchRecommendedResources(score.data);
+  //   }
+  //   return reads;
+  // }, [score]);
 
   useLayoutEffect(() => {
     if (!score) navigate("/test");
