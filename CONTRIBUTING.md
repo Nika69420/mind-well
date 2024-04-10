@@ -12,7 +12,7 @@ Thank you for your interest in contributing to Mind Well! We appreciate your hel
 
 ### Installation
 
-1. Clone the repository: `git clone https://github.com/Nika69420/Mind-Check.git`
+1. Clone the repository: `git clone https://github.com/Nika69420/mind-well.git`
 2. Navigate to the project directory: `cd Mind-Check`
 3. Install the dependencies: `pnpm install`
 4. Start the development server: `pnpm dev`
@@ -62,7 +62,7 @@ VITE_FIREBASE_PROJECT_ID=YOUR_FIREBASE_PROJECT_ID
 
 ### Reporting Issues
 
-If you encounter any issues or have suggestions for improvement, please open an issue on the issue tracker: [https://github.com/Nika69420/Mind-Check.git/issues](https://github.com/Nika69420/Mind-Check.git/issues)
+If you encounter any issues or have suggestions for improvement, please open an issue on the issue tracker: [https://github.com/Nika69420/mind-well.git/issues](https://github.com/Nika69420/mind-well.git/issues)
 When reporting an issue, please include the following details:
 
 - Description of the issue
