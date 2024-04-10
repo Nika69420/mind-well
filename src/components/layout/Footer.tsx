@@ -21,7 +21,7 @@ function Footer() {
               loading="lazy"
             />
           </div>
-          <p className="font-heading text-3xl font-bold">Mind Check</p>
+          <p className="font-heading text-3xl font-bold">Mind Well</p>
         </Link>
         <ul className="grid grid-cols-3 gap-4">
           {FOOTER_LINKS.map((link, index) => (
@@ -44,7 +44,7 @@ function Footer() {
 					</a>{' '}
 					| Open Source on{' '}
 					<a
-						href='https://github.com/kunalkeshan/Mind-Check'
+						href='https://github.com/Nika69420/Mind-Check'
 						target='_blank'
 						className='text-textSecondary underline text-opacity-80 hover:text-opacity-100 transition-all'
 					>

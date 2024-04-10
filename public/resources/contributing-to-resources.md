@@ -1,10 +1,10 @@
-# How to Contribute to Mind Check's Curated Resources
+# How to Contribute to Mind Well's Curated Resources
 
-Thank you for your interest in contributing to Mind Check's Curated Resources! Your valuable insights can empower individuals on their mental health journey. Here's a step-by-step guide on how you can contribute:
+Thank you for your interest in contributing to Mind Well's Curated Resources! Your valuable insights can empower individuals on their mental health journey. Here's a step-by-step guide on how you can contribute:
 
 1. **Explore the `src/public/resources/` Directory:**
 
-   - Navigate to the 'public/resources/' directory in [our GitHub repository](https://github.com/kunalkeshan/Mind-Check).
+   - Navigate to the 'public/resources/' directory in [our GitHub repository](https://github.com/Nika69420/Mind-Check).
    - Here, you'll find all the resources written in Markdown format.
 
 2. **Choose a Resource to Edit or Create a New One:**

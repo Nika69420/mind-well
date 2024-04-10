@@ -25,9 +25,9 @@ export interface Resource {
 
 const RESOURCES: Resource[] = [
   {
-    title: "Introducing Mind Check: Assess and Track Your Mental Well-being",
+    title: "Introducing Mind Well: Assess and Track Your Mental Well-being",
     description:
-      "In today's fast-paced world, taking care of our mental health is more important than ever. Introducing Mind Check, a web application designed to help individuals assess and track their mental well-being. With its user-friendly interface and comprehensive features, Mind Check aims to empower individuals on their journey towards improved mental health.",
+      "In today's fast-paced world, taking care of our mental health is more important than ever. Introducing Mind Well, a web application designed to help individuals assess and track their mental well-being. With its user-friendly interface and comprehensive features, Mind Well aims to empower individuals on their journey towards improved mental health.",
     tags: ["General"],
     url: "introducing-mind-check",
     image: "/images/resources/introducing-mind-check.svg",
@@ -38,9 +38,9 @@ const RESOURCES: Resource[] = [
     },
   },
   {
-    title: "How to Contribute to Mind Check's Curated Resources",
+    title: "How to Contribute to Mind Well's Curated Resources",
     description:
-      "A step by step guide on how to make changes and contribute to the resources of Mind Check.",
+      "A step by step guide on how to make changes and contribute to the resources of Mind Well.",
     tags: ["General"],
     url: "contributing-to-resources",
     image: "/images/resources/contributing-to-resources.svg",

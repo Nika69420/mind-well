@@ -10,7 +10,7 @@ const TermsOfConditions = () => {
           Terms of Conditions
         </h1>
         <h2 className="text-lg md:text-2xl font-medium mx-auto mt-4">
-          These Terms and Conditions ("Terms") govern your use of the Mind Check
+          These Terms and Conditions ("Terms") govern your use of the Mind Well
           application ("App"). By using the App, you agree to comply with these
           Terms. If you do not agree with any part of these Terms, please
           refrain from using the App.

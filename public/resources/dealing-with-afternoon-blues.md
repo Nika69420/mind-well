@@ -1,6 +1,6 @@
 # How to deal with the Afternoon Blues?
 
-*Note: Actual author is a random stranger on reddit, these are their words shared below.*
+_Note: Actual author is a random stranger on reddit, these are their words shared below._
 
 ---
 

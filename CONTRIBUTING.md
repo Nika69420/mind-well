@@ -1,6 +1,6 @@
-# Contributing to Mind Check
+# Contributing to Mind Well
 
-Thank you for your interest in contributing to Mind Check! We appreciate your help in making this app even better. This document provides guidelines for contributing to the project. Please take a moment to read through the guidelines before getting started.
+Thank you for your interest in contributing to Mind Well! We appreciate your help in making this app even better. This document provides guidelines for contributing to the project. Please take a moment to read through the guidelines before getting started.
 
 ## Getting Started
 
@@ -12,7 +12,7 @@ Thank you for your interest in contributing to Mind Check! We appreciate your he
 
 ### Installation
 
-1. Clone the repository: `git clone https://github.com/kunalkeshan/Mind-Check.git`
+1. Clone the repository: `git clone https://github.com/Nika69420/Mind-Check.git`
 2. Navigate to the project directory: `cd Mind-Check`
 3. Install the dependencies: `pnpm install`
 4. Start the development server: `pnpm dev`
@@ -62,7 +62,7 @@ VITE_FIREBASE_PROJECT_ID=YOUR_FIREBASE_PROJECT_ID
 
 ### Reporting Issues
 
-If you encounter any issues or have suggestions for improvement, please open an issue on the issue tracker: [https://github.com/kunalkeshan/Mind-Check.git/issues](https://github.com/kunalkeshan/Mind-Check.git/issues)
+If you encounter any issues or have suggestions for improvement, please open an issue on the issue tracker: [https://github.com/Nika69420/Mind-Check.git/issues](https://github.com/Nika69420/Mind-Check.git/issues)
 When reporting an issue, please include the following details:
 
 - Description of the issue
@@ -70,11 +70,3 @@ When reporting an issue, please include the following details:
 - Expected behavior
 - Actual behavior
 - Any error messages or stack traces
-
-## Contact
-
-If you have any questions or need further assistance, you can reach out to the project maintainers at [https://github.com/kunalkeshan](https://github.com/kunalkeshan)
-
-## License
-
-Mind Check is released under the [MPL-V2.0 License](LICENSE).
